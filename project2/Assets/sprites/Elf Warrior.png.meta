@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: c253bb8755acae84d821a86daba6b849
+timeCreated: 1446346841
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Elf Warrior_0
+    21300002: Elf Warrior_1
+    21300004: Elf Warrior_2
+    21300006: Elf Warrior_3
+    21300008: Elf Warrior_4
+    21300010: Elf Warrior_5
+    21300012: Elf Warrior_6
+    21300014: Elf Warrior_7
+    21300016: Elf Warrior_8
+    21300018: Elf Warrior_9
+    21300020: Elf Warrior_10
+    21300022: Elf Warrior_11
+    21300024: Elf Warrior_12
+    21300026: Elf Warrior_13
+    21300028: Elf Warrior_14
+    21300030: Elf Warrior_15
+    21300032: Elf Warrior_16
+    21300034: Elf Warrior_17
+    21300036: Elf Warrior_18
+    21300038: Elf Warrior_19
+    21300040: Elf Warrior_20
+    21300042: Elf Warrior_21
+    21300044: Elf Warrior_22
+    21300046: Elf Warrior_23
+    21300048: Elf Warrior_24
+    21300050: Elf Warrior_25
+    21300052: Elf Warrior_26
+    21300054: Elf Warrior_27
+    21300056: Elf Warrior_28
+    21300058: Elf Warrior_29
+    21300060: Elf Warrior_30
+    21300062: Elf Warrior_31
+    21300064: Elf Warrior_32
+    21300066: Elf Warrior_33
+    21300068: Elf Warrior_34
+    21300070: Elf Warrior_35
+    21300072: Elf Warrior_36
+    21300074: Elf Warrior_37
+    21300076: Elf Warrior_38
+    21300078: Elf Warrior_39
+    21300080: Elf Warrior_40
+    21300082: Elf Warrior_41
+    21300084: Elf Warrior_42
+    21300086: Elf Warrior_43
+    21300088: Elf Warrior_44
+    21300090: Elf Warrior_45
+    21300092: Elf Warrior_46
+    21300094: Elf Warrior_47
+    21300096: Elf Warrior_48
+    21300098: Elf Warrior_49
+    21300100: Elf Warrior_50
+    21300102: Elf Warrior_51
+    21300104: Elf Warrior_52
+    21300106: Elf Warrior_53
+    21300108: Elf Warrior_54
+    21300110: Elf Warrior_55
+    21300112: Elf Warrior_56
+    21300114: Elf Warrior_57
+    21300116: Elf Warrior_58
+    21300118: Elf Warrior_59
+    21300120: Elf Warrior_60
+    21300122: Elf Warrior_61
+    21300124: Elf Warrior_62
+    21300126: Elf Warrior_63
+    21300128: Elf Warrior_64
+    21300130: Elf Warrior_65
+    21300132: Elf Warrior_66
+    21300134: Elf Warrior_67
+    21300136: Elf Warrior_68
+    21300138: Elf Warrior_69
+    21300140: Elf Warrior_70
+    21300142: Elf Warrior_71
+    21300144: Elf Warrior_72
+    21300146: Elf Warrior_73
+    21300148: Elf Warrior_74
+    21300150: Elf Warrior_75
+    21300152: Elf Warrior_76
+    21300154: Elf Warrior_77
+    21300156: Elf Warrior_78
+    21300158: Elf Warrior_79
+    21300160: Elf Warrior_80
+    21300162: Elf Warrior_81
+    21300164: Elf Warrior_82
+    21300166: Elf Warrior_83
+    21300168: Elf Warrior_84
+    21300170: Elf Warrior_85
+    21300172: Elf Warrior_86
+    21300174: Elf Warrior_87
+    21300176: Elf Warrior_88
+    21300178: Elf Warrior_89
+    21300180: Elf Warrior_90
+    21300182: Elf Warrior_91
+    21300184: Elf Warrior_92
+    21300186: Elf Warrior_93
+    21300188: Elf Warrior_94
+    21300190: Elf Warrior_95
+    21300192: Elf Warrior_96
+    21300194: Elf Warrior_97
+    21300196: Elf Warrior_98
+    21300198: Elf Warrior_99
+    21300200: Elf Warrior_100
+    21300202: Elf Warrior_101
+    21300204: Elf Warrior_102
+    21300206: Elf Warrior_103
+    21300208: Elf Warrior_104
+    21300210: Elf Warrior_105
+    21300212: Elf Warrior_106
+    21300214: Elf Warrior_107
+    21300216: Elf Warrior_108
+    21300218: Elf Warrior_109
+    21300220: Elf Warrior_110
+    21300222: Elf Warrior_111
+    21300224: Elf Warrior_112
+    21300226: Elf Warrior_113
+    21300228: Elf Warrior_114
+    21300230: Elf Warrior_115
+    21300232: Elf Warrior_116
+    21300234: Elf Warrior_117
+    21300236: Elf Warrior_118
+    21300238: Elf Warrior_119
+    21300240: Elf Warrior_120
+    21300242: Elf Warrior_121
+    21300244: Elf Warrior_122
+    21300246: Elf Warrior_123
+    21300248: Elf Warrior_124
+    21300250: Elf Warrior_125
+    21300252: Elf Warrior_126
+    21300254: Elf Warrior_127
+    21300256: Elf Warrior_128
+    21300258: Elf Warrior_129
+    21300260: Elf Warrior_130
+    21300262: Elf Warrior_131
+    21300264: Elf Warrior_132
+    21300266: Elf Warrior_133
+    21300268: Elf Warrior_134
+    21300270: Elf Warrior_135
+    21300272: Elf Warrior_136
+    21300274: Elf Warrior_137
+    21300276: Elf Warrior_138
+    21300278: Elf Warrior_139
+    21300280: Elf Warrior_140
+    21300282: Elf Warrior_141
+    21300284: Elf Warrior_142
+    21300286: Elf Warrior_143
+    21300288: Elf Warrior_144
+    21300290: Elf Warrior_145
+    21300292: Elf Warrior_146
+    21300294: Elf Warrior_147
+    21300296: Elf Warrior_148
+    21300298: Elf Warrior_149
+    21300300: Elf Warrior_150
+    21300302: Elf Warrior_151
+    21300304: Elf Warrior_152
+    21300306: Elf Warrior_153
+    21300308: Elf Warrior_154
+    21300310: Elf Warrior_155
+    21300312: Elf Warrior_156
+    21300314: Elf Warrior_157
+    21300316: Elf Warrior_158
+    21300318: Elf Warrior_159
+    21300320: Elf Warrior_160
+    21300322: Elf Warrior_161
+    21300324: Elf Warrior_162
+    21300326: Elf Warrior_163
+    21300328: Elf Warrior_164
+    21300330: Elf Warrior_165
+    21300332: Elf Warrior_166
+    21300334: Elf Warrior_167
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Elf Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1275
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1211
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1147
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1083
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1019
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 955
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 891
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 827
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 699
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_95
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 571
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 507
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_107
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_113
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_117
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_119
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_122
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_124
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_125
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_127
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_128
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_129
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_130
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_131
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_134
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_137
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_138
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_139
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_140
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_141
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_142
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_143
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 187
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_145
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_146
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_147
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_149
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_150
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_151
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_152
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_153
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_154
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_155
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 123
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_158
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_160
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_161
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_162
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_163
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_164
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_165
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_166
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elf Warrior_167
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
